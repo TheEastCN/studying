@@ -1,0 +1,14 @@
+2018-06-03 15:24:51,399 - transaction - INFO - print account information
+2018-06-03 15:33:51,479 - transaction - INFO - print account information
+2018-06-03 15:35:38,335 - transaction - INFO - print account information
+2018-06-03 15:36:04,864 - transaction - INFO - 欠款已还清
+2018-06-03 15:39:04,369 - transaction - INFO - luffy 取现200,手续费10.0
+2018-06-03 15:39:47,823 - transaction - INFO - a信息添加成功
+2018-06-03 15:44:17,424 - transaction - INFO - increase credit limit 100000 success
+2018-06-03 15:45:55,411 - transaction - INFO - increase credit limit 1000 success
+2018-06-03 15:46:02,429 - transaction - INFO - luffy账户已冻结
+2018-06-03 15:50:30,459 - transaction - INFO - luffy扣款成功
+2018-06-03 15:50:30,460 - transaction - INFO - tesla入账成功
+2018-06-03 15:54:52,679 - transaction - INFO - print account information
+2018-06-03 15:55:03,807 - transaction - INFO - 欠款已还清
+2018-06-03 15:55:33,029 - transaction - INFO - luffy 取现10000,手续费500.0
